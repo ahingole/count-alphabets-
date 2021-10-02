@@ -26,6 +26,11 @@ body {
 .container h1{
     text-align: center;
 }
+
+input{
+    height: 40px;
+    font-size: 25px;
+}
 .count{
     width: auto;
     height: auto;
